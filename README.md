@@ -1,1 +1,1 @@
-# StreamMoneyPrinter
+# CryptoPrinter project
